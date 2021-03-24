@@ -1,4 +1,4 @@
-
+**We'll deploy https://github.com/vinycoolguy2015/nodejs-mysql-crud which is forked from https://github.com/chapagain/nodejs-mysql-crud**
 
   1-Create EC2 IAM role with AWSCodeDeployFullAccess,AWSCodeBuildAdminAccess,AWSCodePipelineFullAccess,AmazonS3FullAccess,AmazonEC2FullAccess,AmazonRDSFullAccess and IAMFullAccess. We’ll assign this role to our Workstation which we’ll use to execute our Terraform code
 
