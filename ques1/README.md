@@ -29,18 +29,16 @@
   
   7- Create a Github personal access token with admin:repo_hook and repo permission.
 
-  8- Fork https://github.com/vinycoolguy2015/nodejs-mysql-crud.git repo(which I forked from https://github.com/chapagain/nodejs-mysql-crud)
-
-  10- Execute following commands to create our infrastructure:
+ 8- Execute following commands to create our infrastructure:
   
         cd terraform_files
         terraform init
         terraform plan
         terraform apply --auto-approve
         
-  11-Once it’s done, it will create our load balanced nodejs application along with Blue/Green deployment setup using AWS CodePipeline.
+  9-Once it’s done, it will create our load balanced nodejs application along with Blue/Green deployment setup using AWS CodePipeline.
   
-  12-You can update the branch and corresponding build pipeline will be triggered.
+  10-You can update the branch and corresponding build pipeline will be triggered.
   
   
   **Notes**
