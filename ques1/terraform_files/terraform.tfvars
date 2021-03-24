@@ -16,7 +16,9 @@ lowcpu                   = 40
 userdata                 = "../script.tpl"
 environments = {
   environment1 = "Dev"
+  environment2 = "UAT"
+  environment3 = "Production"
 }
 repository_owner = "vinycoolguy2015"
 repository_name  = "nodejs-mysql-crud"
-github_token     = "ae91cc83738ccc40699a3d889ef33f92e158d99e"
+github_token     = "asas"
