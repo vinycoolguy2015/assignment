@@ -21,4 +21,4 @@ environments = {
 }
 repository_owner = "vinycoolguy2015"
 repository_name  = "nodejs-mysql-crud"
-github_token     = "asas"
+github_token     = "<pastet token here>"
